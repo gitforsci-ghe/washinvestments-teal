@@ -1,8 +1,8 @@
 ---
 title: WASH investments
 author:
-  - name: Elizabeth Tilley
-    orcid: 0000-0000-0000-0000
+  - name: Elizabeth Anne Tilley
+    orcid: 9999-9999-9999-9999
     corresponding: true
     email: tilleye@ethz.ch
     affiliations:
