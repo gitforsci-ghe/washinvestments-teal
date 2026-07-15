@@ -1,7 +1,7 @@
 ---
 title: WASH investments
 author:
-  - name: First Author
+  - name: Elizabeth Tilley
     orcid: 0000-0000-0000-0000
     corresponding: true
     email: first@example.com
